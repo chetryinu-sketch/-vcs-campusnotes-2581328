@@ -1,0 +1,5 @@
+# Ignore temporary files
+*.tmp
+
+# Ignore friend's cloned repository
+/vcs-campusnotes-2581067/
