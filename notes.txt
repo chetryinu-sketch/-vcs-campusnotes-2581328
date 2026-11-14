@@ -1,9 +1,23 @@
 Campus Notes
+============
+
 Subject: Version Control Systems
 Topic: Introduction to Git and GitHub
 
-Git is a distributed version control system used to track changes in files and collaborate on projects.
+1. INTRODUCTION TO GIT
+----------------------
+Git is a distributed version control system used to track
+changes in files and collaborate on projects.
+
+2. INTRODUCTION TO GITHUB
+-------------------------
 GitHub is a platform for hosting Git repositories.
+
+3. COLLABORATIVE WORKFLOW
+-------------------------
 This line was added from the cloned repository.
 New update from cloned repository.
+
+4. GIT OPERATIONS
+-----------------
 Learning Git clone, push and pull operations.
